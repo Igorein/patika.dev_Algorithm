@@ -1,4 +1,4 @@
-##Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+## Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 Step 1 = [16, 22, 27, 2, 18, 6]
 Step 2 = [2, 16, 22, 27, 18, 6]
@@ -6,14 +6,14 @@ Step 3 = [2, 16, 18, 22, 27, 6]
 Step 4 = [2, 6, 16, 18, 22, 27]
 
 
-##Big-O gösterimini yazınız.
+## Big-O gösterimini yazınız.
 
 O(n) (Best case)
 O(n^2) (worst case and average case)
 
 
 
-##Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+## Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
 Average case kapsamına girer çünkü 18 sayısı sıralanmış array'in tam ortasındadır.
 
